@@ -7,9 +7,9 @@
 ---
 
 ### 🧩 About Me  
-🔹 10+ years in **Telecom & Network Engineering** (MPLS, RF, Fiber, UBR, Cisco Routers).  
+🔹 10+ years in **Telecom & Network Engineering** (MPLS, RF, Fiber, Cisco Routers).  
 🔹 Currently transitioning into **DevOps & Cloud Infrastructure**.  
-🔹 Passionate about **automation**, **cloud**, and **network optimization**.  
+🔹 Passionate about **Automation**, **Cloud**, and **Network Optimization**.  
 
 ---
 
@@ -48,8 +48,8 @@ To merge my **telecom expertise** with **DevOps automation**, building secure, s
 
 ### 📫 Connect With Me  
 🌍 **GitHub:** [Arun-devops-Enginner](https://github.com/Arun-devops-Enginner)  
-💼 **LinkedIn:** *(add your LinkedIn link)*  
-📧 **Email:** *(add your email)*  
+💼 **LinkedIn:** *(www.linkedin.com/in/arun-kumar-mahato-34655b2ab)*  
+📧 **Email:** *(arunkumarmahato7@gmail.com)*  
 
 ---
 
