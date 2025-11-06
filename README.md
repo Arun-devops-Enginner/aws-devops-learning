@@ -1,24 +1,65 @@
-# 🚀 AWS & DevOps Learning Journey
+<h1 align="center">👋 Hi, I'm Arun Kumar Mahato</h1>
 
-Welcome to my **AWS & DevOps Learning Journey** repository!  
-This is where I document my progress, projects, and automation scripts as I build my career towards becoming a **DevOps Engineer**.
-
----
-
-## 📌 About Me
-Hi, I’m **Arun** – a Network Engineer transitioning into **Cloud & DevOps** with hands-on AWS, Linux, Python, and automation skills.  
-Currently following a **6-month structured DevOps roadmap** covering AWS, CI/CD, Infrastructure as Code, Containers, and more.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=24&center=true&vCenter=true&lines=Network+%26+DevOps+Engineer;Telecom+%7C+MPLS+%7C+Fiber+Expert;AWS+%7C+Docker+%7C+Terraform+Learner;Automation+Enthusiast+%7C+Python+Scripter" />
+</p>
 
 ---
 
-## 🛠 Skills I’m Building
-- **Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch, ELB, etc.)
-- **Scripting:** Python, Bash
-- **DevOps Tools:** Git, GitHub, Jenkins, Docker, Kubernetes
-- **Infrastructure as Code:** Terraform
-- **Monitoring:** Prometheus, Grafana
-- **Linux:** Commands, Permissions, Networking
-- **Networking:** Cisco, L2 Switching, Fiber Planning
+### 🧩 About Me  
+🔹 10+ years in **Telecom & Network Engineering** (MPLS, RF, Fiber, UBR, Cisco Routers).  
+🔹 Currently transitioning into **DevOps & Cloud Infrastructure**.  
+🔹 Passionate about **automation**, **cloud**, and **network optimization**.  
+
+---
+
+### 🧰 Tech Stack  
+
+**🔧 Networking:** Cisco | MPLS | ArcMap | ArcGIS | RF Tools  
+**☁️ DevOps Tools:** AWS | Docker | Terraform | Jenkins | GitHub Actions | Kubernetes  
+**💻 Programming:** Python | Bash | YAML | JSON  
+**🧠 OS:** Linux (Ubuntu, CentOS) | Windows Server  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun-devops-Enginner&show_icons=true&theme=tokyonight" alt="Arun's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arun-devops-Enginner&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,python,git,github,vscode,bash" />
+</p>
+
+---
+
+### 🎯 Career Goal  
+To merge my **telecom expertise** with **DevOps automation**, building secure, scalable, and intelligent cloud infrastructure.  
+
+---
+
+### 📫 Connect With Me  
+🌍 **GitHub:** [Arun-devops-Enginner](https://github.com/Arun-devops-Enginner)  
+💼 **LinkedIn:** *(add your LinkedIn link)*  
+📧 **Email:** *(add your email)*  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arun-devops-Enginner&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+⭐ _“Automate everything, monitor intelligently, and secure continuously.”_
 
 ---
 
