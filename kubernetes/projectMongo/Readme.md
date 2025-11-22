@@ -6,7 +6,6 @@
 
 This project deploys **MongoDB** and **Mongo Express** to a Kubernetes cluster.  
 MongoDB serves as the backend database, and Mongo Express provides a **web UI** for managing collections, databases, and records.
-
 ---
 
 ## 🛠️ Prerequisites
@@ -34,8 +33,7 @@ Before running the project, make sure you have:
 
 ## 🚀 Deploy to Kubernetes
 
-Apply the configuration:
-
+Apply the configuration: 
 
 kubectl apply -f mongo-secret.yaml
 kubectl apply -f configmap.yaml
@@ -50,7 +48,6 @@ kubectl get svc mongo-express-service
  kubectl port-forward pod/myapp 8080:80
 and the use in browser
 http://localhost:8080
-
 ---
  🔍 Credentials
 Component	Username	Password
@@ -63,10 +60,7 @@ From Mongo Express Pod:
 
 kubectl exec -it deploy/mongo-express -- sh
 nc -zv mongodb-service 27017
-
-
-Expected output:
-
+Expected output: 
 27017 open
 ---
 ☁ Deploying to AWS EKS 
@@ -127,12 +121,9 @@ kubectl delete -f .
 +----------+-----------+ +-----------+-----------+
 | |
 +--------------- Service ----------+
-
-
-
 ---
 
 ❤️ Support
 
-If this project helped you, please ⭐ the repo!
+If this project helped you, please ⭐ the My repo!
 Your support motivates more DevOps projects.
