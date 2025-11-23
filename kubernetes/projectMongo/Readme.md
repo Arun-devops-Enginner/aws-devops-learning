@@ -45,7 +45,7 @@ kubectl get svc mongo-express-service
  http://<node-ip>:<node-port>  #use in browser and check
 
  in local minikube in linux wsl need run this command to test in browser
- kubectl port-forward pod/myapp 8080:80
+ kubectl port-forward svc/mongo-express-service 8081:8081
 and the use in browser
 http://localhost:8080
 ---
@@ -55,7 +55,6 @@ MongoDB	root (from secret)	defined in secret
 Mongo Express Login	admin	pass (unless modified)
 ---
 🧪 Testing MongoDB Connection
-
 From Mongo Express Pod:
 
 kubectl exec -it deploy/mongo-express -- sh
